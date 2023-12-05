@@ -1,5 +1,7 @@
 # BloodBank
-Certainly! Below is a template for a README file for a centralized blood center application that aims to connect blood donors with requestors:
+Centralized blood center aims to bridge the gap between
+blood donors and requestors. Through app the blood
+requestors can search for nearby hospitals.
 
 ```markdown
 # Centralized Blood Center Application
